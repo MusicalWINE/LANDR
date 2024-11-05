@@ -2,3 +2,4 @@
 Name=LANDR
 Exec=wineconsole /home/$USER/.wine/drive_c/users/$USER/AppData/Local/Programs/landr-desktop-app/LANDR.exe
 Type=Application
+Icon=7ABA_LANDR.0
