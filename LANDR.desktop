@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LANDR
+Exec=wineconsole ~/.wine/drive_c/users/redlintu16/AppData/Local/Programs/landr-desktop-app/LANDR.exe
+Type=Application
+StartupNotify=true
+Comment=LANDR
+Path=~/.wine/dosdevices/c:/users/redlintu16/AppData/Local/Programs/landr-desktop-app
+Icon=7ABA_LANDR.0
+StartupWMClass=landr.exe
