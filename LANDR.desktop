@@ -2,8 +2,3 @@
 Name=LANDR
 Exec=wineconsole /home/$USER/.wine/drive_c/users/$USER/AppData/Local/Programs/landr-desktop-app/LANDR.exe
 Type=Application
-StartupNotify=true
-Comment=LANDR
-Path=/home/$USER/.wine/dosdevices/c:/users/$USERAppData/Local/Programs/landr-desktop-app
-Icon=7ABA_LANDR.0
-StartupWMClass=landr.exe
